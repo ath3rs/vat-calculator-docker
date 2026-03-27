@@ -1,0 +1,2 @@
+image: ath3rs/vat:<+pipeline.sequenceId>
+replicas: 1
